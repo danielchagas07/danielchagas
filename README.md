@@ -11,7 +11,7 @@ Gosto de transformar ideias em projetos web.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
  Projetos em destaque
-- [Site Romântico]([https://for-liviaderreti.netlify.app]): site responsivo feito com HTML, CSS e JS
+- [Site Romântico](https://for-liviaderreti.netlify.app): site responsivo feito com HTML, CSS e JS
 
  Contato[
  (https://www.linkedin.com/in/daniel-chagas-53aabb3b4?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
